@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_My Flows</name>
+   <tag></tag>
+   <elementGuidId>237d4622-fe5d-4ddd-badc-a568e5c70bfa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='left-menu-panel']/div/div[2]/ul/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>7ec66f1a-a487-4fb2-b45c-ebb50fba8634</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-route</name>
+      <type>Main</type>
+      <value>flows</value>
+      <webElementGuid>918d71d1-a5b9-4eba-9329-88e94ae494f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Flows</value>
+      <webElementGuid>92072601-e19a-45e6-91c6-412a7a04acf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;left-menu-panel&quot;)/div[@class=&quot;fm-left-list-wrapper&quot;]/div[@class=&quot;fm-header-list-wrapper&quot;]/ul[1]/li[2]</value>
+      <webElementGuid>881d6ead-d8cd-4217-9a13-938638fc5e76</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='left-menu-panel']/div/div[2]/ul/li[2]</value>
+      <webElementGuid>382457b4-b36e-40e8-9b64-156add9f99b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Apps'])[1]/following::li[1]</value>
+      <webElementGuid>57b1b27a-2146-4125-9388-a9061eaf825b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Backflipt'])[1]/following::li[2]</value>
+      <webElementGuid>1662c11f-4456-4d31-9cba-62c768cb20b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Integrations-iPaaS'])[1]/preceding::li[1]</value>
+      <webElementGuid>f4b4a0fb-d9f3-4ee5-9ad8-e6945455c27a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entities'])[1]/preceding::li[2]</value>
+      <webElementGuid>c17e1ceb-ea41-42ac-9026-935a454c98e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Flows']/parent::*</value>
+      <webElementGuid>d56092b6-4579-4d9d-962e-722c2c9552a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]</value>
+      <webElementGuid>1b0e04ec-54af-4d21-b058-f30b8c307d2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'My Flows' or . = 'My Flows')]</value>
+      <webElementGuid>4e7596d5-ddbd-4d78-93a2-e2eeec61bc32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
